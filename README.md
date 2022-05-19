@@ -22,3 +22,5 @@ Argumenty lze libovolně kombinovat.
 --graph - pokud je zadána hodnota "yes" (jiné hodnoty jsou ignorovány) poskytne algoritmus graf fitness funkce pro každý počet barev, který je schopen graf obarvit
 --file - výstup bude přesměrován do souboru stats.txt
 ```
+
+Hodnocení 21 bodů z 22
